@@ -1,0 +1,7 @@
+name: cosmetictest
+version: '0.0'
+main: dog.comedy.cosmetictest.Cosmetictest
+api-version: '1.21'
+authors: [ Comedy Dog ]
+description: Let's try to build a boat
+softdepend: [HMCCosmetics]
